@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Igor</h2>
 I am a developer transitioning careers and always looking to learn and grow. Currently, I am focused on studying Java.
 
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
