@@ -26,9 +26,9 @@ I am a developer transitioning careers and always looking to learn and grow. Cur
 ---
 
 ## 📫 Where to Find Me
-- 📧 **Email**: [pedrobbigas@gmail.com](mailto:pedrobbigas@gmail.com)
-- 💼 **LinkedIn**: [Pedro Bigas](https://www.linkedin.com/in/pedro-bigas/)
-- 🖥️ **GitHub**: [PedroBigas](https://github.com/PedroBigas)
+- 📧 **Email**: [igor-azevedo12@hotmail.com](mailto:igor-azevedo12@hotmail.com)
+- 💼 **LinkedIn**: [Igor Azevedo de Souza](https://www.linkedin.com/in/igor-azevedo-de-souza-38749821b/)
+- 🖥️ **GitHub**: [Igor Azevedo](https://github.com/igorazz)
 
 ---
 
