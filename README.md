@@ -19,6 +19,21 @@ I am a developer transitioning careers and always looking to learn and grow. Cur
   
 </div>
 
-###
+
+## 🌱 What I'm Currently Learning
+- **Java**: I am enhancing my skills with this powerful language.
+
+---
+
+## 📫 Where to Find Me
+- 📧 **Email**: [pedrobbigas@gmail.com](mailto:pedrobbigas@gmail.com)
+- 💼 **LinkedIn**: [Pedro Bigas](https://www.linkedin.com/in/pedro-bigas/)
+- 🖥️ **GitHub**: [PedroBigas](https://github.com/PedroBigas)
+
+---
+
+### 🎯 Goal
+My goal is to solidify my career in development, creating innovative solutions and positively impacting people through technology.
+
 
 ###
