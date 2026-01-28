@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Igor</h2>
-I am a developer transitioning careers and always looking to learn and grow. Currently, I am focused on studying Java.
+I am a developer transitioning careers and always looking to learn and grow. Currently, I am focused on studying PHP!
 
 ##
 
@@ -20,15 +20,8 @@ I am a developer transitioning careers and always looking to learn and grow. Cur
 
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-
-  
   
 </div>
-
-
-## 🌱 What I'm Currently Learning
-- **PHP**:
-
 ---
 
 ## 📫 Where to Find Me
