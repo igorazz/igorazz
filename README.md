@@ -22,7 +22,8 @@ I am a developer transitioning careers and always looking to learn and grow. Cur
   <img width="12" />
   
 </div>
----
+
+##
 
 ## 📫 Where to Find Me
 - 📧 **Email**: [igor-azevedo12@hotmail.com](mailto:igor-azevedo12@hotmail.com)
