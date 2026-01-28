@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Igor</h2>
+<h2 align="left">Hi 👋! My name is Igor.</h2>
 I am a developer transitioning careers and always looking to learn and grow. Currently, I am focused on studying PHP!
 
 ##
