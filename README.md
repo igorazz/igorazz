@@ -17,12 +17,17 @@ I am a developer transitioning careers and always looking to learn and grow. Cur
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+
+  
   
 </div>
 
 
 ## 🌱 What I'm Currently Learning
-- **Java**: I am enhancing my skills with this powerful language.
+- **PHP**:
 
 ---
 
